@@ -1,15 +1,18 @@
-# Capslock Content writing BlogSite
+# Capslock Content Writing BlogSite
 This is a blogsite that I created for "Capslock Content Writing". It works as a site for Capslock Content Writing to showcase their samples for potential customers. This is my very first, own full stack project I created. Though traditional it helped me grap the basics of the MERN stack and get started on other projects. 
 
 ⚡️Technologies
 - Uses the MERN Stack-   
-  Mongo DB Atlas for a Database (First built through Mongo DB and then tranfered to Atlas)
+  Mongo DB Atlas for a Database (First built through Mongo DB and then tranfered to Atlas) - MongoShell and Mongo Compass
   React for Frontend 
-  Use of Express and Node.js to create a small backend server. 
+  Use of Express and Node.js to create a small backend server.
+- Postman API
+  To test backend API calls
 - Axios Library
 - CSS
 - Google Firebase Authenticator-
   Handles user SignUp and Sign In process, and Authentication.
+- Git Bash 
   
 👽 Features 
 - This Blogsite allows anyone to read blog articles of the site. 
